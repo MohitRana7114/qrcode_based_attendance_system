@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096246930842",
+    "project_id": "qrscanatten",
+    "storage_bucket": "qrscanatten.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096246930842:android:baaf959900fe21ab451e23",
+        "android_client_info": {
+          "package_name": "com.example.student_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYgjpQmDlu98Sm10QfMVLC7LoOaFldzx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
